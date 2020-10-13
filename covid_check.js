@@ -17,7 +17,7 @@ rl.question('What is your city?', function(answer){
         console.log("incorrect");
     }   
     
-    rl.close();
+    
     
     
 })
