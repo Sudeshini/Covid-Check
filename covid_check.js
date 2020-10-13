@@ -19,4 +19,5 @@ rl.question('What is your city?', function(answer){
     
     rl.close();
     
+    
 })
